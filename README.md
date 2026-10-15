@@ -1,6 +1,3 @@
-Copy the complete Markdown below into your GitHub `README.md` file.
-
-```
 
 # Student Registration Form and Table
 
@@ -66,5 +63,3 @@ Below the form, display a table containing dummy student data with details such 
 ## 🚀 Learning Outcome
 
 This task helps develop a basic understanding of HTML forms, user input elements, form validation, and tables for displaying structured data on a webpage.
-
-```
